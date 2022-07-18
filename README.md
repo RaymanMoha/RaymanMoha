@@ -1,8 +1,4 @@
-column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <img width="450" height="224" img align="left" alt="David Gonzalez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidgonzalezfx&count_private=true&theme=dark&show_icons=true&bg_color=0d1117&icon_color=3572A5&title_color=F8CB2E&hide_border=true" class="responsive" />
-    </div>
-    <br/>
+
     <div style="display: inline-block;">
         <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgonzalezfx&theme=dark&show_icons=true&bg_color=0d1117&icon_color=063458&title_color=F8CB2E&layout=compact&hide_border=true" class="responsive"/>
     </div>
