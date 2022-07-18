@@ -1,14 +1,17 @@
 <p><h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=footer&text=Hi 👋, I'm RaymanMoha&fontSize=40&fontAlignY=80" alt="Hi 👋, I'm RaymanMoha"/></h1></p>
 <p align="center">🚀 I have a passion for technology, and I want to use it! 🚀</p>
+
 <h1 align="center">Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:abdulmoharayman@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='_blank'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="luiobregon21" /> </p>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="RaymanMoha" /> </p>
 
 	
 <p align="center"> <img align="left" username=RaymanMoha&show_icons=true&locale=en&layout=compact&theme=radical" alt="RaymanMoha" width=360 height=180/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaymanMoha&show_icons=true&theme=radical" alt="RaymanMoha" width=420 height=180/>
 </p>
+
+</br>
 <h4> 
 	<img align="right" src="https://imgur.com/0RBg77l.gif" width="500" height="281" /> 
 <ul align="left">
