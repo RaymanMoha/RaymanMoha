@@ -1,4 +1,4 @@
-<p><h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=450&section=footer&text=Hi 👋, I'm RaymanMoha&fontSize=40&fontAlignY=80" alt="Hi 👋, I'm RaymanMoha"/></h1></p>
+<p><h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=footer&text=Hi 👋, I'm RaymanMoha&fontSize=40&fontAlignY=80" alt="Hi 👋, I'm RaymanMoha"/></h1></p>
 <p align="center">🚀 I have a passion for technology, and I want to use it! 🚀</p>
 <h1 align="center">Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:abdulmoharayman@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
