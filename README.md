@@ -1,9 +1,4 @@
 
-    <div style="display: inline-block;">
-        <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgonzalezfx&theme=dark&show_icons=true&bg_color=0d1117&icon_color=063458&title_color=F8CB2E&layout=compact&hide_border=true" class="responsive"/>
-    </div>
-</div>
-<br/>
 <p align="center">🚀 I have a passion for technology, and I want to use it! 🚀</p>
 <h1 align="center">Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:abdulmoharayman@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
