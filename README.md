@@ -13,7 +13,7 @@
 	<img align="right" src="https://imgur.com/0RBg77l.gif" width="500" height="281" /> 
 <ul align="left">
 	<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
-	<li>🔭 I’m currently on my second Trimester of my foundation year @holbertonschoolPR working as a Tutor <img src="https://uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
+	<li>🔭 I’m currently on my second Trimester of my foundation year</li>
 </ul>
 </h4>
 
