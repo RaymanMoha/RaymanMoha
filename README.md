@@ -1,4 +1,6 @@
-<h1 align="center"> Hi, I'm RAYMAN MOHA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<p><h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Hi 👋, I'm RaymanMoha&fontSize=30&fontAlignY=80" alt="Hi 👋, I'm Rayman Moha"/></h1></p>
+<p align="center">🚀 I have a passion for technology, and I want to use it! 🚀</p>
+<h1 align="center"> HELLO There<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:abdulmoharayman@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='_blank'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="luiobregon21" /> </p>
