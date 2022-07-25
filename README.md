@@ -45,10 +45,9 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-DOCKER-black?style=flat&logo=DOCKER">
 <img src="http://img.shields.io/badge/-FLASK-red?style=flat&logo=FLASK">
-<img src="http://img.shields.io/badge/-React-purple?style=flat&logo=REACT">
 <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
 <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
-<img src="http://img.shields.io/badge/-NGINX-green?style=flat&logo=NGINX">
+
 
 <h3 align="center"><br>Major projects worked on, in school in order:</h3> 
   
