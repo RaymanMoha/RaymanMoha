@@ -1,4 +1,4 @@
-<h1>"Hi 👋, I'm Mohammed"</h1>
+<h1 align='center'>"Hi 👋, I'm Mohammed"</h1>
 <p align="center">🚀 I have a passion for technology, and I want to use it! 🚀</p>
 
 <h1 align="center"> Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
