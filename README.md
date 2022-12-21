@@ -30,6 +30,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [ Alx-higher_level_programming](https://github.com/RaymanMoha/Alx-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
 | [ AlX-low_level_programming](https://github.com/RaymanMoha/Alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
 | [ Alx-system_engineering-devops](https://github.com/RaymanMoha/Alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 
@@ -37,7 +38,7 @@
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 
 
-<img src="https://img.shields.io/badge/-C%20%20-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"> 
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"> 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MySQL-ADD8E6?style=flat&logo=mysql">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
@@ -47,6 +48,8 @@
 <img src="http://img.shields.io/badge/-FLASK-red?style=flat&logo=FLASK">
 <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
 <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
+<img src="http://img.shields.io/badge/-NGINX-green?style=flat&logo=NGINX">
+<img src="http://img.shields.io/badge/-React-purple?style=flat&logo=REACT">
 
 
 <h3 align="center"><br>Major projects worked on, in school in order:</h3> 
@@ -56,6 +59,7 @@
 |[Printf](https://github.com/RaymanMoha/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/RaymanMoha/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/RaymanMoha/monty) | Stacks, Queues - LIFO, FIFO |
+|[AirBnB Clone](https://github.com/RaymanMoha/AirBnb_clone)| HBnB is a complete web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. And a console interpreter to work with the classes and that interacts with both, the DB and JSON storages |
 <br />
 
 
