@@ -37,25 +37,6 @@
 | [ AlX-low_level_programming](https://github.com/RaymanMoha/Alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
 | [ Alx-system_engineering-devops](https://github.com/RaymanMoha/Alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 
-
-<h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
-
-
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"> 
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MySQL-ADD8E6?style=flat&logo=mysql">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-DOCKER-black?style=flat&logo=DOCKER">
-<img src="http://img.shields.io/badge/-FLASK-red?style=flat&logo=FLASK">
-<img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
-<img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
-<img src="http://img.shields.io/badge/-NGINX-green?style=flat&logo=NGINX">
-<img src="http://img.shields.io/badge/-React-purple?style=flat&logo=REACT">
-
-
-<h3 align="center"><br>Major projects worked on, in school in order:</h3> 
   
 | Project name | Description |
 | --- | --- |
