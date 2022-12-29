@@ -55,6 +55,7 @@
 	
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
 </p>
+<a href='./_blank'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 
 
 ---
