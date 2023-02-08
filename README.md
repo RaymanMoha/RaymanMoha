@@ -75,6 +75,12 @@ I’m currently learning Low-level programming, Algorithms, Higher-level program
 </p>
 <a href='./_blank'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RaymanMoha/count.svg" />
+</p>
 
 ---
 
