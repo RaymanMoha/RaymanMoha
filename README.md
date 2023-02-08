@@ -71,7 +71,6 @@ I’m currently learning Low-level programming, Algorithms, Higher-level program
 	
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
 </p>
-<a href='./_blank'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 
 <a href=#><img src="contributions.svg"></a>
 
