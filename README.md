@@ -38,7 +38,7 @@ I’m currently learning Low-level programming, Algorithms, Higher-level program
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 
-
+<div class="row">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"> 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MySQL-ADD8E6?style=flat&logo=mysql">
@@ -51,7 +51,7 @@ I’m currently learning Low-level programming, Algorithms, Higher-level program
 <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
 <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
 <img src="http://img.shields.io/badge/-NGINX-green?style=flat&logo=NGINX">
-
+</div>
   
 | Project name | Description |
 | --- | --- |
