@@ -22,7 +22,7 @@
 	<li> :seedling:I love learning new things since I got acquainted with programming.
 
 I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
-	<li>🔭 I’m currently on my third Trimester of my foundation year </li><br/><br/>
+	<li>🔭 I’m currently Specializing in Frontend </li><br/><br/>
 	<li>🌋 My toolset include JavaScript, python, react,html,css and a whole lot of creativity 🌉 </li>
 </ul>
 </h4>
